@@ -12,6 +12,7 @@ import lombok.Setter;
 
 @Data
 @Entity
+// Table Name
 @Table(name="CITIZEN_PLANS_INFO")
 public class CitizenPlan {
 	
